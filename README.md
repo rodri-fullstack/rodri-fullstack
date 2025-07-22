@@ -13,6 +13,8 @@ Soy Desarrollador Full Stack Java, con experiencia en análisis de datos, diseñ
 - 🧑‍🏫 Promotor e instructor comunitario de Lengua de Señas Chilena
 - ⚙️ Explorando accesibilidad web (WCAG, A11Y)
 
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodri-fullstack&show_icons=true&theme=default)
+
 ## 📫 Conectemos
 - 💼 [LinkedIn](https://linkedin.com/in/rodri-fullstack)
 - 🌐 [Portafolio Web (en construcción)](https://rodri-fullstacks-projects.vercel.app)
