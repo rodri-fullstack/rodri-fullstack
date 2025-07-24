@@ -19,4 +19,4 @@ Soy Desarrollador Full Stack Java, con experiencia en análisis de datos, diseñ
 
 ## 📫 Conectemos
 - 💼 [LinkedIn](https://linkedin.com/in/rodri-fullstack)
-- 🌐 [Portafolio Web (en construcción)](https://rodri-fullstacks-projects.vercel.app)
+- 🌐 [Portafolio Web (en construcción)](https://portafolio-rodrigo-eight.vercel.app/about)
